@@ -1,1 +1,1 @@
-# Calculator_1
+A project made for practice of javascript
